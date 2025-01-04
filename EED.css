@@ -792,6 +792,15 @@
         
     }
 
+    .overlay{
+        background-color: rgba(140, 56, 103, 0.6);
+        position: absolute;
+        padding:1.8em;
+        height: 35em;
+        z-index: 2;
+    }
+    
+
     .nav-bar{
         display: flex;
         justify-content: center;
